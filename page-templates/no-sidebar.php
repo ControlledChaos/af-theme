@@ -7,7 +7,7 @@
  * Description: Does not load the primary sidebar.
  *
  * @package    WordPress/ClassicPress
- * @subpackage BS_Theme
+ * @subpackage AF_Theme
  * @since      1.0.0
  */
 

@@ -5,7 +5,7 @@
  * Do not namespace this file.
  *
  * @package    WordPress/ClassicPress
- * @subpackage BS_Theme
+ * @subpackage AF_Theme
  * @since      1.0.0
  */
 
@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @since  1.0.0
  * @access public
  */
-class BS_Theme_Activate {
+class AF_Theme_Activate {
 
     /**
 	 * Constructor magic method
@@ -76,4 +76,4 @@ class BS_Theme_Activate {
 }
 
 // Run the class.
-new BS_Theme_Activate;
+new AF_Theme_Activate;
